@@ -139,6 +139,8 @@
     </footer>
 
     <script>
+        let aud = document.getElementById("myaud");
+aud.volume = 0.1;
         function decode() {
             var cipherText = document.getElementById('cipherText').value.toUpperCase();
             var shift = parseInt(document.getElementById('shift').value);
