@@ -36,7 +36,11 @@ const moonImages = [
     "https://images.unsplash.com/photo-1580721658071-d69d71961fa5?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "https://images.unsplash.com/photo-1586943101559-4cdcf86a6f87?q=80&w=1361&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "https://images.unsplash.com/photo-1536387420762-7c43f7821b1d?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "https://images.unsplash.com/photo-1635442021770-0b5d61836c01?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "https://images.unsplash.com/photo-1635442021770-0b5d61836c01?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "https://cdn.pixabay.com/photo/2020/05/19/13/15/moon-5190738_960_720.jpg",
+    "https://cdn.pixabay.com/photo/2011/12/13/14/30/earth-11014_1280.jpg",
+    "https://cdn.pixabay.com/photo/2011/12/13/14/30/earth-11014_1280.jpg"
+    
     
 
 ];
