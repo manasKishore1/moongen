@@ -39,7 +39,10 @@ const moonImages = [
     "https://images.unsplash.com/photo-1635442021770-0b5d61836c01?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "https://cdn.pixabay.com/photo/2020/05/19/13/15/moon-5190738_960_720.jpg",
     "https://cdn.pixabay.com/photo/2011/12/13/14/30/earth-11014_1280.jpg",
-    "https://cdn.pixabay.com/photo/2011/12/13/14/30/earth-11014_1280.jpg"
+    "https://cdn.pixabay.com/photo/2011/12/13/14/30/earth-11014_1280.jpg",
+    "https://cdn.pixabay.com/photo/2016/11/18/22/58/stars-1837306_1280.jpg",
+    "https://cdn.pixabay.com/photo/2011/12/14/12/21/orion-nebula-11107_1280.jpg",
+    "https://cdn.pixabay.com/photo/2021/03/16/13/47/lake-6099842_1280.jpg"
     
     
 
